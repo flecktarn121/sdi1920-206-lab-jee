@@ -28,6 +28,7 @@
 			<li><a href="incluirEnCarrito">Carrito</a>
 			<li><a href="login.jsp">Login</a>
 			<li><a href="admin.jsp">Admin</a>
+			<li><a href="productos">Listado de productos</a>
 		</ul>
 		<div class="nav navbar-right">
 			<jsp:getProperty name="contador" property="total" />Visitas
